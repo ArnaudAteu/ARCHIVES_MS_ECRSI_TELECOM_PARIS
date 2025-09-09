@@ -8,25 +8,25 @@ Ce dépôt rassemble, organise et pérennise la documentation académique des pr
 - Assurer une qualité minimale (format, nommage, licence) et éviter la publication de contenus sensibles.
 
 
-### STRUCTURE
+## STRUCTURE
 - Promotion /2024/ {S1 /cours, TDs, TPs, Exams/} {S2 /cours, TDs, TPs, Exams/} {S3 /cours, TDs, TPs, Exams/} {S4 /cours, TDs, TPs, Exams/} {Mémoires /(si autorisation explicite de diffusion)/}
 - Promotion /2025/ ................
 - Promotion /2026/ ................
 
 
-#### COMMENT CONTRIBUER
+## COMMENT CONTRIBUER
 1. Créer une branche depuis `main` (ex: `promo-2025/S1/cours-crypto`).
 2. Ajouter/modifier des fichiers en respectant les règles de [CONTRIBUTING.md](CONTRIBUTING.md).
 3. Ouvrir une Pull Request (PR) → 1 relecture nécessaire par un·e mainteneur·e de ta promotion.
 4. Une fois approuvée, fusion dans `main`.
 
 
-##### SENSIBILITE & CONFORMITE
+## SENSIBILITE & CONFORMITE
 - **Ne publie jamais** de données personnelles, d'éléments couverts par NDA (accord de confidendialité), d'exploits actifs, ...
 - Préfère des résumés, schémas et liens publics. Pour les binaires lourds → Git LFS conseillé.
 
 
-###### 👥 Mainteneurs (rotation annuelle)
+## 👥 MAINTENEURS (rotation annuelle)
 - `MAINTAINERS.md` liste les référent·es par promotion et la procédure de passation.
 
 
