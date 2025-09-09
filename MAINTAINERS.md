@@ -2,9 +2,9 @@
 
 
 ## Équipe actuelle
-- Promo 2024 : @dmbetsi
-- Promo 2025 : @ArnaudAteu
-- Promo 2026 : à nommer
+### - Promo 2024 : @dmbetsi
+### - Promo 2025 : @ArnaudAteu
+### - Promo 2026 : à nommer
 
 
 ## Rôles
