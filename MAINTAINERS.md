@@ -13,4 +13,4 @@
 
 
 ## Contact
-- Email de contact (si souhaité) : ms-cyber-maintainers@exemple.org
+- Email de contact (si souhaité) : 
