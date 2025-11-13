@@ -17,8 +17,6 @@ Ce dépôt rassemble, organise et pérennise la documentation académique des pr
 ## COMMENT CONTRIBUER
 1. Créer une branche depuis `main` (ex: `promo-2025/S1/cours-crypto`).
 2. Ajouter/modifier des fichiers en respectant les règles de [CONTRIBUTING.md](CONTRIBUTING.md).
-3. Ouvrir une Pull Request (PR) → 1 relecture nécessaire par un·e mainteneur·e de ta promotion.
-4. Une fois approuvée, fusion dans `main`.
 
 
 ## SENSIBILITE & CONFORMITE
